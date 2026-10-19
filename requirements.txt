@@ -1,0 +1,2 @@
+Warning: fs was declared with const; use let for reassignable variables.
+qrcode[pil]>=7.4

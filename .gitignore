@@ -1,0 +1,6 @@
+Warning: fs was declared with const; use let for reassignable variables.
+__pycache__/
+.venv/
+submissions.json
+qrcode*.png
+.DS_Store
